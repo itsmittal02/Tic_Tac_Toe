@@ -1,4 +1,4 @@
-# Tic_Tac_Toe
+# Tic_Tac_Toe  https://tic-pair.netlify.app/
 
 Hii! This is Tic Tac Toe game where two players are given .they have to match their pattern in a Row, Coloumn or Digonally.
 we use here HTML, CSS or JAVASCRIPT.
